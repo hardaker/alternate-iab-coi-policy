@@ -24,4 +24,4 @@ The specific conflicts that may cause a perceived or potential conflict of inter
 
 ## Disclosure Transparency
 
-A person's recusal to participate in the discussion of a topic is always noted in the public IAB minutes. In addition, the IAB will maintain a private repository of all general disclosures of employment and other ties.
+A person's recusal to participate in the discussion of a topic is always noted in the public IAB minutes. In addition, the IAB will maintain repository of all general disclosures of employment and other ties. It is expected that much of this repository is public, but there can be situations where some disclosures (such as customers of consultants) are private.
