@@ -20,7 +20,8 @@ The specific conflicts that may cause a perceived or potential conflict of inter
 
 * A decision or output from the IAB impacts a contract that the IETF enters into with a party, and that party relates to the Covered Individual, a colleague that the Covered Individual's works closely with, or a family member.
 
-* A decision or output from the IAB impacts a specific business or development at a party that relates to the Covered Individual, a colleague that the Covered Individual's works closely with, or a family member. As the Internet technology in general affects a large number of businesses, a mere general impact does not lead to a conflict. Rather, the issue needs to be more specific, such as raising an issue or recommendation about a topic where the affected party is in a major role.
+* Activity on the IAB involves discussion and decisions regarding technical matters, mainly related to IETF
+activities. As an activity adjacent to a standardization process, it is often the case that Covered Individuals will have some (frequently non-financial) stake in the outcome of discussions or decisions that relate to technical matters.  This policy does not require that Covered Individuals disclose such conflicts of interest as they relate to technical matters. However, Covered Individuals need to exercise their judgment and, in extraordinary cases be willing to disclose potential or perceived conflicts of interest even as they relate to technical matters. For example, if a Covered Individual's sponsor were in the process of entering a new market where there is an ongoing IAB discussion, then disclosure, or even recusal,might be appropriate, even if difficult.
 
 ## Disclosure Transparency
 
