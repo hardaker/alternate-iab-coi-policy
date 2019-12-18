@@ -26,3 +26,7 @@ activities. As an activity adjacent to a standardization process, it is often th
 ## Disclosure Transparency
 
 A person's recusal to participate in the discussion of a topic is always noted in the public IAB minutes. In addition, the IAB will maintain repository of all general disclosures of employment and other sponsorship. It is expected that much of this repository is public, but there can be situations where some disclosures (such as customers of consultants) are private.
+
+# Status
+
+There has been some discusssion of bullet 3, and while there was some convergence on the mailing list, not final acknowledgment of agreement.
