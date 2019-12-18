@@ -12,7 +12,7 @@ Covered Individuals shall not use the IAB’s resources or decisions as a means 
 
 The IAB requires that all Covered Individuals disclose their main employment, sponsorship, consulting customer, or other sources of income when entering the IAB or whenever there are updates.
 
-In addition, when a topic is discussed at the IAB, the Covered Individuals are required to promptly disclose if that topic constitutes a perceived or potential conflict of interest, and recuse from the discussion or decision.
+In addition, when a topic is discussed at the IAB, the Covered Individuals are required to promptly disclose if that topic constitutes a perceived or potential conflict of interest.  Once disclosed, Covered Individuals may recuse from participation in discussions or decisions at their discretion.
 
 The specific conflicts that may cause a perceived or potential conflict of interest are matters for individual and IAB judgment, but generally come in the following forms:
 
