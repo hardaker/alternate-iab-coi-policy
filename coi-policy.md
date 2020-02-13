@@ -4,8 +4,6 @@ This policy covers the nomcom-selected Internet Architecture Board (IAB) members
 
 In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
 
-The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
-
 Covered Individuals shall not use the IAB’s resources or decisions as a means for personal or third-party gain.
 
 ## Topics Requiring Disclosure Consideration
@@ -18,6 +16,8 @@ Topics where potential disclosure of potential conflicts is required include, bu
 4. Liason roles
 5. Advice to ISOC
 6. Appointing an ISOC Trustee
+
+The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
 
 Activity on the IAB involves discussion and decisions regarding technical matters, mainly related to IETF activities. As an activity adjacent to a standardization process, it is often the case that Covered Individuals will have some (frequently non-financial) stake in the outcome of discussions or decisions that relate to technical matters.  Covered Individuals should exercise their judgment about when disclosure is necessary in technical matters, erring on the side of transparency but recusal being rare.
 
