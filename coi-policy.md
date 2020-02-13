@@ -2,9 +2,9 @@
 
 This policy covers the nomcom-selected Internet Architecture Board (IAB) members and ex-officio members (collectively, “Covered Individuals”). This policy has no impact on any other participants in IAB activities, for instance liaisons to and from the IAB or IAB program members.
 
-In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest. If a Covered Individual has a conflict of interest for whatever reason, that individual must avoid participating in the work of the IAB that touches on the related matter.
+In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.
 
-The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
+The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
 
 Covered Individuals shall not use the IAB’s resources or decisions as a means for personal or third-party gain.
 
