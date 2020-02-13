@@ -35,7 +35,7 @@ Specific conflicts that may cause a perceived or potential conflict of interest 
 
 * The success of a Covered Individual's business depends significantly on the outcome of an IAB discussion or decision.
 
-## Disclosure and Refusal Procedure
+## Disclosure and Recusal Procedure
 
 Aside from general employment and relevant income public disclosures required above, any Covered Individual's other potential conflicts of interest shall be disclosed internally to the IAB.  Covered Individuals may choose to recuse themselves from participation in discussions or decisions at their discretion.  The IAB may also deliberate on the disclosed potential conflict and may request that the Covered Individual recuse themselves from discussions or decisions.
 
