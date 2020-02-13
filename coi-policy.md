@@ -6,6 +6,15 @@ In carrying out their IAB role, Covered Individuals must act in the best interes
 
 The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
 
+Topics where potential disclosure of potential conflicts is recommended include, but is not limited to:
+
+1. Confirming the IETF Chair and Area Directors
+2. Standards appeals
+3. The RFC Series Editor
+4. Liason roles
+5. Advice to ISOC
+6. Appointing an ISOC Trustee
+
 Covered Individuals shall not use the IAB’s resources or decisions as a means for personal or third-party gain.
 
 ## Disclosure of Actual or Potential Conflicts
