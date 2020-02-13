@@ -10,7 +10,7 @@ Covered Individuals shall not use the IAB’s resources or decisions as a means 
 
 ## Topics Requiring Disclosure Consideration
 
-Topics where potential disclosure of potential conflicts is recommended include, but is not limited to:
+Topics where potential disclosure of potential conflicts is required include, but is not limited to:
 
 1. Confirming the IETF Chair and Area Directors
 2. Standards appeals
