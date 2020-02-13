@@ -2,7 +2,7 @@
 
 This policy covers the nomcom-selected Internet Architecture Board (IAB) members and ex-officio members (collectively, “Covered Individuals”). This policy has no impact on any other participants in IAB activities, for instance liaisons to and from the IAB or IAB program members.
 
-In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.
+In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
 
 The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
 
@@ -37,9 +37,9 @@ Specific conflicts that may cause a perceived or potential conflict of interest 
 
 ## Disclosure and Refusal Procedure
 
-Aside from general employment and relevant income disclosures required above, any other potential conflicts of interest shall be disclosed internally to the IAB.  Covered Individuals may choose to recuse themselves from participation in discussions or decisions at their discretion.  The IAB may also deliberate on the disclosed potential conflict to determine if the member should recuse themselves from the situation.
+Aside from general employment and relevant income public disclosures required above, any member's other potential conflicts of interest shall be disclosed internally to the IAB.  Covered Individuals may choose to recuse themselves from participation in discussions or decisions at their discretion.  The IAB may also deliberate on the disclosed potential conflict and may request that the member recuse themselves from discussions or decisions.
 
-Refusal is expected to be rare in occurrence, as the IAB is associated with a diverse set of topics.  The IETF's nomcom that appoints IAB members is expected to provide the IAB with a diverse set of board members to balance the board's viewpoints with different priorities and opinions.
+Recusal is expected to be rare in occurrence, as the IAB participates in technical discussions about a diverse set of topics.  The IETF's nomination committee (nomcom) that appoints IAB members is expected to provide the IAB with a diverse set of board members to balance the board's viewpoints with different priorities and opinions.
 
 ## Recusal Transparency
 
