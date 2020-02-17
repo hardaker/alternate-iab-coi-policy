@@ -40,7 +40,7 @@ Specific conflicts that may cause a perceived or potential conflict of interest 
 
 Aside from general employment and relevant income public disclosures required above, any Covered Individual's other potential conflicts of interest shall be disclosed internally to the IAB.  Covered Individuals may choose to recuse themselves from participation in discussions or decisions at their discretion.  The IAB may also deliberate on the disclosed potential conflict and may request that the Covered Individual recuse themselves from discussions or decisions.
 
-Recusal is expected to be rare in occurrence, as the IAB participates in technical discussions about a diverse set of topics.  The IETF's nomination committee (nomcom) that appoints IAB members is expected to provide the IAB with a diverse set of board members to balance the board's viewpoints with different priorities and opinions.
+Recusal is expected to be rare in occurrence, as the IAB participates in discussions about a diverse set of topics.  The IETF's nomination committee (nomcom) that appoints IAB members is expected to provide the IAB with a diverse set of board members to balance the board's viewpoints with different priorities and opinions.
 
 ## Recusal Transparency
 
