@@ -4,7 +4,7 @@ This policy covers the nomcom-selected Internet Architecture Board (IAB) members
 
 In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
 
-The purpose of this policy is to prevent Covered Individuals from using the IAB's resources as decisions as a means for gain for themselves or related third parties.
+The purpose of this policy is to prevent Covered Individuals from using the IAB's resources or decisions as a means for gain for themselves or related third parties.
 
 ## Topics Requiring Disclosure Consideration
 
