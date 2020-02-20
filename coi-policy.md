@@ -2,7 +2,8 @@
 
 This policy covers the nomcom-selected Internet Architecture Board (IAB) members and ex-officio members (collectively, “Covered Individuals”). This policy has no impact on any other participants in IAB activities, for instance liaisons to and from the IAB or IAB program members.
 
-In carrying out their IAB role, Covered Individuals must act in the best interest of the Internet community. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
+
+In carrying out their IAB role, Covered Individuals are expected to act in the best interest of the Internet community. Occasionally these duties of this role may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
 
 The purpose of this policy is to prevent Covered Individuals from using the IAB's resources or decisions as a means for gain for themselves or related third parties.
 
@@ -24,7 +25,7 @@ include, but is not limited to:
 
 ## Sources of Potential Conflicts
 
-The IAB requires that all Covered Individuals publicly disclose, to the best of their ability, their main employment, sponsorship, consulting customer, or other relevant sources of income when entering the IAB or whenever there are updates.
+This policy documents the expectation that all Covered Individuals publicly disclose, to the best of their ability, their main employment, sponsorship, consulting customer, or other relevant sources of income when entering the IAB or whenever there are updates.
 
 Covered Individuals should promptly disclose when a topic discussed by the IAB could be considered a conflict of interest by a reasonable person.
 
@@ -38,9 +39,9 @@ Specific circumstances that might cause a conflict of interest include (but are 
 
 ## Disclosure and Recusal Procedure
 
-Aside from general employment and relevant income public disclosures required above, any Covered Individual's other potential conflicts of interest shall be disclosed internally to the IAB.  Covered Individuals may choose to recuse themselves from participation in discussions or decisions at their discretion.  The IAB may also deliberate on the disclosed potential conflict and may request that the Covered Individual recuse themselves from discussions or decisions.
+Aside from general employment and relevant income public disclosures required above, any Covered Individual's other potential conflicts of interest should be disclosed internally to the IAB.  Covered Individuals may choose to recuse themselves from participation in discussions or decisions at their discretion.  The IAB can request that a Covered Individual who discloses a conflict of interest recuse themselves from discussions and decisions.
 
-Recusal is expected to be rare in occurrence, as the IAB participates in discussions about a diverse set of topics.  The IETF's nomination committee (nomcom) that appoints IAB members is expected to provide the IAB with a diverse set of board members to balance the board's viewpoints with different priorities and opinions.
+Recusal is expected to be rare, in part because the IETF nomination committee (nomcom) is expected to provide the IAB with a diverse set of members to balance the different priorities and opinions of individual members.
 
 ## Recusal Transparency
 
