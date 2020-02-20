@@ -24,7 +24,7 @@ include, but is not limited to:
 
 ## Sources of Potential Conflicts
 
-The IAB requires that all Covered Individuals publicly disclose their main employment, sponsorship, consulting customer, or other relevant sources of income when entering the IAB or whenever there are updates.
+The IAB requires that all Covered Individuals publicly disclose, to the best of their ability, their main employment, sponsorship, consulting customer, or other relevant sources of income when entering the IAB or whenever there are updates.
 
 Covered Individuals should promptly disclose when a topic discussed by the IAB could be considered a conflict of interest by a reasonable person.
 
