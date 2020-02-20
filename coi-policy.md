@@ -19,7 +19,7 @@ include, but is not limited to:
 1. Confirmations of candidates selected by other bodies
 2. Standards appeals
 3. The RFC Series Editor
-4. Liason roles
+4. Liaison roles
 5. Advice to ISOC
 6. Appointments to other bodies
 
