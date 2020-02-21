@@ -3,13 +3,13 @@
 This policy covers the nomcom-selected Internet Architecture Board (IAB) members and ex-officio members (collectively, “Covered Individuals”). This policy has no impact on any other participants in IAB activities, for instance liaisons to and from the IAB or IAB program members.
 
 
-In carrying out their IAB role, Covered Individuals are expected to act in the best interest of the Internet community. Occasionally these duties of this role may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
+In carrying out their IAB role, Covered Individuals are expected to act in the best interest of the Internet community. Occasionally the duties of this role may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or other current or future financial interest.
 
 The purpose of this policy is to prevent Covered Individuals from using the IAB's resources or decisions as a means for gain for themselves or related third parties.
 
 ## Topics Requiring Disclosure Consideration
 
-The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs have also a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
+The IAB does not directly deal with matters relating to contracts or finance. The IAB does, however, have a role in personnel decisions, and its decisions and outputs have a potential to indirectly affect contracts within the IETF system. The IAB's technical decisions and outputs also have a potential to impact both work elsewhere in the IETF and businesses that employ or develop Internet technology.
 
 Activity on the IAB involves discussion and decisions regarding technical matters, mainly related to IETF activities. As an activity adjacent to a standardization process, it is often the case that Covered Individuals will have some (frequently non-financial) stake in the outcome of discussions or decisions that relate to technical matters.  Covered Individuals should exercise judgement regarding disclosure related to technical matters, erring on the side of transparency. It is not expected that recusal related to technical matters will be common.
 
